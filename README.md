@@ -6,7 +6,7 @@ Furniture Catalogue App UI
 - [Apk File](apk)
 
 ![Furniture Catalogue App](https://cdn.dribbble.com/users/944871/screenshots/16582119/media/1f8b4050f6c1841d199c27cd070e6430.png?compress=1&resize=1200x900)
- | 
+Screenshot 1 | Screenshot 2
 :-------------------------:|:-------------------------:
 ![Screenshot1](asset/sc/Screenshot_1633543087.png)  |  ![Screenshot2](asset/sc/Screenshot_1633543093.png)
 
